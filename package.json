@@ -1,0 +1,18 @@
+{
+  "name": "ankita_task-25",
+  "version": "1.0.0",
+  "description": "React Shoe Store Shopping Cart",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "vite": "^7.0.0",
+    "@vitejs/plugin-react": "^4.7.0"
+  },
+  "devDependencies": {}
+}
